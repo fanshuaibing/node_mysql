@@ -1,0 +1,6 @@
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/node_mysql.iml
+node_modules/
+yarn.lock
